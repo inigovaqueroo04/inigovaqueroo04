@@ -1,36 +1,23 @@
-# Hola, soy Iñigo
+<div align="center">
 
-Soy estudiante de **Ingeniería Informática** y me gusta aprender de todo un poco, especialmente cuando puedo entender cómo funcionan las cosas por dentro y construir algo útil con ello.
+# Iñigo
 
-Me interesa el desarrollo de software, la organización de proyectos, las bases de datos, el diseño de interfaces y todo lo que me ayude a mejorar como futuro ingeniero informático.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=0969DA&center=true&vCenter=true&width=520&lines=Ingenier%C3%ADa+Inform%C3%A1tica;Aprendiendo+de+todo+un+poco;Construyendo+proyectos+paso+a+paso" alt="Typing SVG" />
 
-## Ahora mismo
+**Estudiante de Ingeniería Informática**  
+Me gusta aprender, probar cosas nuevas y construir proyectos que me hagan mejorar.
 
-- Aprendiendo y practicando desarrollo de aplicaciones.
-- Mejorando mi forma de documentar, estructurar y mantener proyectos.
-- Explorando distintas áreas de la informática para encontrar dónde puedo aportar más.
-- Trabajando en proyectos académicos y personales para convertir ideas en soluciones reales.
+<img src="https://img.shields.io/badge/Focus-Software%20%26%20aprendizaje-0969DA?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Curioso-por%20defecto-2EA44F?style=flat-square" alt="Curioso" />
 
-## Lo que me mueve
+</div>
 
-Me gusta aprender con calma, probar cosas nuevas y entender el porqué de cada decisión técnica. No busco quedarme solo con una tecnología concreta: prefiero construir una base sólida y seguir creciendo paso a paso.
+<details>
+<summary>Un poco más</summary>
 
-## Áreas que me interesan
+- Desarrollo software.
+- Bases de datos.
+- Diseño y documentación.
+- Siempre aprendiendo algo nuevo.
 
-- Desarrollo web y aplicaciones.
-- Bases de datos y modelado de información.
-- Ingeniería del software y documentación técnica.
-- Experiencia de usuario y diseño funcional.
-- Automatización, herramientas y buenas prácticas.
-
-## Proyecto destacado
-
-- [BrenoTask / IDSW2](https://github.com/inigovaqueroo04/25-26-idsw2-sdVC): proyecto académico centrado en análisis, diseño, documentación y desarrollo de un sistema de gestión de tareas.
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inigovaqueroo04&show_icons=true&theme=default&hide_border=true)
-
----
-
-Siempre intentando aprender algo nuevo, dentro o fuera de la informática.
+</details>
